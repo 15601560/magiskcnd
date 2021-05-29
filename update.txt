@@ -55,7 +55,7 @@ mda=http://note.youdao.com/yws/api/personal/file/WEBcbddea9e22509fb4f20e02ae44dd
 umda=http://note.youdao.com/yws/api/personal/file/WEBf62d3b7421ff1d4815e89f2ea5013456?method=download&inline=true&shareKey=4182b9c019283afa325b20655d37b280
 
 m_v="magisk19.1"
-mda=link": "http://note.youdao.com/yws/api/personal/file/WEB11ed06ad0d134e195cd53cffbfd3339c?method=download&inline=true&shareKey=ca4257af1d3bc114a4065c7bbae2cb28
+mda=http://note.youdao.com/yws/api/personal/file/WEB11ed06ad0d134e195cd53cffbfd3339c?method=download&inline=true&shareKey=ca4257af1d3bc114a4065c7bbae2cb28
 umda=http://note.youdao.com/yws/api/personal/file/WEBf62d3b7421ff1d4815e89f2ea5013456?method=download&inline=true&shareKey=4182b9c019283afa325b20655d37b280
 
 m_v="magisk19.0"
