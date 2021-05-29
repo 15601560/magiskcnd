@@ -1,4 +1,4 @@
-m_v="magisk-f822ca5bï¼ˆä¸æ¨èï¼‰"
+m_v="magisk-f822ca5b£¨²»ÍÆ¼ö£©"
 mda=https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@4f737b70868eb3f8b71e48518f919819cbf5ad63/app-debug.apk
 umda=https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@4f737b70868eb3f8b71e48518f919819cbf5ad63/app-debug.apk
 
